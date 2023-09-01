@@ -1,0 +1,1 @@
+This is basic code of react that teaches us how can we add children.
